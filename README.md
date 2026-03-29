@@ -145,27 +145,27 @@ Includes:
 
 ---
 
-## 📌 Project Infographic
+##  Project Infographic
 
 ![Infographic](infographic.png)<img width="1920" height="1080" alt="infographics" src="https://github.com/user-attachments/assets/52348c1b-da85-4020-9e34-ee0ef9df37ce" />
 
 
 ---
 
-## 🧠 Machine Learning Concept Used
+##  Machine Learning Concept Used
 
 * **K-Means Clustering (Unsupervised Learning)**
   Used to group similar study patterns without labeled data.
 
 ---
 
-## ⚠️ Note
+##  Note
 
 Ensure the dataset is placed correctly inside the `data/` folder before running the project.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Use real-world student data
 * Add web interface (Streamlit)
@@ -174,6 +174,6 @@ Ensure the dataset is placed correctly inside the `data/` folder before running 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Your Name
+Aditya Singh
